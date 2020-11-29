@@ -1,0 +1,1 @@
+package com.newbound.robot.published;public class Ds18b20 extends com.newbound.robot.MetaBot {	public Ds18b20()	{		super();				DB = "ds18b20";		ID = "vzjxrl1679488fee6h1a0";	}		public String getServiceName() 	{		return "ds18b20";	}}
