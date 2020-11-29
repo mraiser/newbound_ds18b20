@@ -1,0 +1,1 @@
+{"data":{"java":"BotUtil.systemCall(\"modprobe w1-gpio\");\nBotUtil.systemCall(\"modprobe w1-therm\");\nreturn \"OK\";","import":"import org.json.*;\nimport com.newbound.robot.*;\n","returntype":"String","params":[],"desc":""},"id":"xvlvin167948b4da4n1cf","sessionid":"njxuiv1679485c955i158","time":1544385504096,"addr":"/10.107.126.182:49720","username":"admin"}
